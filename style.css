@@ -1,0 +1,38 @@
+th{
+    font-weight: 800;
+    background-color: palegreen;
+    color: azure;
+}
+
+tr{
+    color: whitesmoke;
+    background-color: black;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-bottom-width: 1px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    
+}
+
+body{
+    background-color: ivory;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 370px;
+    padding-right: 300px;
+    background-image: url(images/220px-Avatar-Teaser-Poster.jpg);
+    
+    
+}
+
+h1{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: whitesmoke;
+}
